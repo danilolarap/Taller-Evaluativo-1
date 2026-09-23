@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<lang="es">
+<head>
+	<body>
+		<div class="flex flex-row justify-between items-center" style="position: absolute; top: 12px; left: 12px; right: 12px;">
+            <span style="background-color: rgba(255, 255, 255, 0.35); backdrop-filter: blur(8px); color: #ffffff; font-size: 12px; padding: 6px 14px; border-radius: 16px; font-weight: 500;">
+              Best Seller
+            </span>
+            <div class="flex flex-row justify-center items-center" style="background-color: #ffffff; width: 36px; height: 36px; border-radius: 50%;">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="#000">
+                <path d="M21.71 8.35c-.24-.13-5.75-3.02-12.03.35-4.48 2.41-6.84 6.22-7.03 6.54a.75.75 0 0 0 .28 1.03c.12.07.25.1.38.1.28 0 .55-.14.69-.39.04-.07 2.18-3.56 6.21-5.73 5.48-2.95 10.42-.36 10.64-.24a.75.75 0 0 0 .86-1.66z"/>
+              </svg>
+            </div>
+          </div>
+</head>
+		<nav class="flex flex-row justify-between items-center" style="padding: 0 4px;">
+      	</nav>
+
+      	<section class="flex flex-col gap-1" style="padding: 0 4px;">
+      	</section>
+</body>
+</html>
